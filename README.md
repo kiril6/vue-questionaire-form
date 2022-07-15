@@ -1,5 +1,7 @@
 # vue-questionaire
 
+Accessing url: https://kiril6.github.io/vue-questionaire-form/
+
 ## Project setup
 ```
 npm install
